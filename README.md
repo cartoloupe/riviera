@@ -3,4 +3,8 @@
 
 generates gifs with scrolling text
 
+## steps
+- draw text on an image
+- draw text on an image and translate it
+- make a gif of the above
 
