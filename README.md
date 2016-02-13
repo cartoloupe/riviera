@@ -8,3 +8,5 @@ generates gifs with scrolling text
 - draw text on an image and translate it
 - make a gif of the above
 
+## resources
+- [imagemagick examples](http://www.imagemagick.org/Usage/)
